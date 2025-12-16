@@ -29,7 +29,7 @@ function Login() {
           </div>
 
           <div className="mb-3">
-            <label className="form-label">Password</label>
+            <label className="form-label">Pass</label>
             <input
               type="password"
               className="form-control"
