@@ -17,7 +17,7 @@ function Login() {
         <h3 className="text-center mb-3">Login</h3>
         <form onSubmit={handleSubmit}>
           <div className="mb-3">
-            <label className="form-label">Email address</label>
+            <label className="form-label">Email</label>
             <input
               type="email"
               className="form-control"
