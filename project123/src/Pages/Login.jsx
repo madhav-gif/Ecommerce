@@ -21,7 +21,7 @@ function Login() {
             <input
               type="email"
               className="form-control"
-              placeholder="Enter your email"
+              placeholder="Enter email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               required
